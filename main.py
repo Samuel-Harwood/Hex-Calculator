@@ -3,7 +3,6 @@ from converters import *
 
 
 
-
 def main():
     user_input = input("Enter hex: ").upper()
     if user_input.startswith('0x'):
